@@ -1,10 +1,8 @@
 For using universal scroll class you need:
 
-    1.main div DOM link where you insert all cards.
-    2.cards DOM link.
-    3.left scroll button DOM link.
-    4.right scroll button DOM link.
-    5.Correctly written CSS code.
+    1.download JS file.
+    2.connect to JS file from HTML with type module.
+    3.import class to your main JS file.
 
 Class call example:
 
