@@ -6,6 +6,10 @@ For using universal scroll class you need:
     4.right scroll button DOM link.
     5.Correctly written CSS code.
 
+Class call example:
+
+    new Scroll(document.querySelectorAll(".cart"),document.querySelector(".maincol"),document.querySelector(".leftbut"),document.querySelector(".rightbut"));
+    
 HTML code example:
 
      <body>
