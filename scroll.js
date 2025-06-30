@@ -17,7 +17,6 @@
         this.getEvents();
     }
     getEvents(){
-        console.log(this.lbut,this.rbut);
         this.lbut.addEventListener("click",() => {this.mainfunc(false)});   
         this.rbut.addEventListener("click",() => {this.mainfunc(true)});   
     }
